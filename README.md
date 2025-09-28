@@ -26,4 +26,4 @@ A Cake-Based website that shows various Products, catalogs, reviews, and testimo
 
 1. Clone the repository  
    ```bash
-     https://akashb1999.github.io/Bootstrap-6-by-Akash-Bhattacharyya/
+     https://akashb1999.github.io/Bootstrap-7-by-Akash-Bhattacharyya--Cake-/
