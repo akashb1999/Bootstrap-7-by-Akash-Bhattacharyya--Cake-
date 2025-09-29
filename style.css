@@ -12,7 +12,20 @@ html {
   z-index: 3;
   padding: 0;
 }
-
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #606639;
+}
+::-webkit-scrollbar-thumb {
+  background: #da7217;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #79da17;
+  transition: all 0.5s ease-in-out;
+}
 .ftco-navbar-light .navbar-brand {
   color: #ffffff;
 }
